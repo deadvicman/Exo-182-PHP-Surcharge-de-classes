@@ -6,6 +6,7 @@
 require "classes/Personnage.php";
 require "classes/Dragon.php";
 require "classes/Princesse.php";
+require "classes/sorcier.php";
 
 // Creation d'une instance de la classe personnage
 $humain = new Personnage();
